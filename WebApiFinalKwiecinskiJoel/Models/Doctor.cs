@@ -21,6 +21,8 @@ namespace WebApiFinalKwiecinskiJoel.Models
         [Required]
         public int HospitalCod { get; set; }
 
+
+
         #region Navegación
 
         [ForeignKey("HospitalCod")]

@@ -26,6 +26,7 @@ namespace WebApiFinalKwiecinskiJoel.Models
         public int? Num_Cama { get; set; }
 
 
+
         #region Navegación
 
         public List<Doctor> Doctors { get; set; }
